@@ -34,5 +34,5 @@ jobs:
         uses: wearerequired/lint-action@v2
         with:
           dotnet_format: true
-          dotnet_format_args: "WebApplication1.csproj -v diag"
+          dotnet_format_args: "WebApplication1.csproj -v diag --severity info"
           dotnet_format_auto_fix: true
