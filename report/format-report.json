@@ -1,0 +1,38 @@
+[
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "bfede4d6-662d-460d-b627-3aca562ff64a"
+      },
+      "Id": "622ccded-bee7-4c6b-993b-01e1d5ec27d8"
+    },
+    "FileName": "WeatherForecastController.cs",
+    "FilePath": "E:\\VSProjects\\SampleAPI\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 27,
+        "CharNumber": 32,
+        "DiagnosticId": "CA5394",
+        "FormatDescription": "warning CA5394: Random is an insecure random number generator. Use cryptographically secure random number generators when randomness is required for security."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "bfede4d6-662d-460d-b627-3aca562ff64a"
+      },
+      "Id": "622ccded-bee7-4c6b-993b-01e1d5ec27d8"
+    },
+    "FileName": "WeatherForecastController.cs",
+    "FilePath": "E:\\VSProjects\\SampleAPI\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 28,
+        "CharNumber": 37,
+        "DiagnosticId": "CA5394",
+        "FormatDescription": "warning CA5394: Random is an insecure random number generator. Use cryptographically secure random number generators when randomness is required for security."
+      }
+    ]
+  }
+]
