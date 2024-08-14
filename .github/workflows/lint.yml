@@ -19,6 +19,9 @@ jobs:
       contents: write
 
     steps:
+      - name: Configure CRLF settings
+        run: git config --global core.autocrlf false
+    
       - name: Check out Git repository
         uses: actions/checkout@v4
 
